@@ -1,10 +1,10 @@
-#Experimental Penguins Remake
+# Experimental Penguins Remake
 
-##Overview:
+## Overview:
 
 A while ago I made a remake of Experimental Penguins based on a <a href="https://www.youtube.com/watch?v=yjpPbL7xpn0">version shown in a video made</a> by <a href="http://rocketsnail.com">Rocketsnail</a>. This was an unarchived version of Experimental Penguins, also known as penguins-113.swf. The webpage where the SWF belonged existed but not the actual SWF file.
 
-##This source includes:
+## This source includes:
 
     penguins-113.fla, the client for the game.
     org/ascrypt/, an AS2 library for various encryptions.
@@ -15,14 +15,14 @@ Make sure you read README so you can properly setup the Security Features of the
 
 **THE ORDER OF THE README INSTRUCTIONS IS IMPORTANT!!!!**
 
-##Features:
+## Features:
 
     Cool admin commands like kick and ban.
     Passwords hashed in HMAC-SHA-256.
     Server responses are heavily encrypted.
     Hidden Admin only Watch Tower room which lets them watch all users invisibly.
 
-##Setup:
+## Setup:
 What you need:  
 	-Adobe Flash CS6 or lower.  
 	-Any text editor (TextEdit, Sublime Text, Notepad++, Nano, Emacs or Vim).  
